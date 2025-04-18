@@ -24,6 +24,7 @@ An AI Developer and Full Stack Web developer🎯  from India.
 
 <h3> 🤝🏻 Connect with Me </h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohithyarramala&theme=onedark)](https://github.com/rohithyarramala/github-profile-trophy)
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/rohithyarramala/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohith%20Yarramala-blue?style=flat-square&logo=linkedin"></a>
