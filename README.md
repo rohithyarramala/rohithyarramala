@@ -22,6 +22,9 @@ An AI Developer and Full Stack Web developer🎯  from India.
 
 ![](https://komarev.com/ghpvc/?username=rohithyarramala)
 
+<h3>My Dashboard</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=rohithyarramala&theme=onedark)](https://github.com/rohithyarramala/github-profile-trophy)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohithyarramala&theme=onedark)](https://github.com/rohithyarramala/github-profile-trophy)
