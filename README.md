@@ -22,7 +22,10 @@ An AI Developer and Full Stack Web developer🎯  from India.
 
 ![](https://komarev.com/ghpvc/?username=rohithyarramala)
 
-<h3>....</h3>
+<h3>stats</h3>
+![](https://github-readme-stats.vercel.app/api?username=Sandeep010-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sandeep010-hub&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep010-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohithyarramala&theme=onedark)](https://github.com/rohithyarramala/github-profile-trophy)
 
