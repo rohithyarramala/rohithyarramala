@@ -44,7 +44,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohithyarramala&show_icons=true&theme=radical&hide=issues&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithyarramala&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithyarramala&hide=html,tex&theme=radical&count_private=true" width="48%"/>
+
 </p>
 
 <p align="center">
@@ -53,6 +54,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohithyarramala&theme=radical" width="90%" />
+  
 </p>
 
 ---
