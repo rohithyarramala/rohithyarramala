@@ -27,7 +27,7 @@ function Metrics() {
     };
   }, [hasAnimated]);
 
-  const animateCount = (target, setter) => {
+  const animateCount = (target:any, setter:any) => {
     let current = 0;
     const speed = 30;
 

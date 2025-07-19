@@ -56,8 +56,8 @@ function startTypingEffect({
 }
 
 function HeroSection() {
-  const textRef = useRef(null);
-  const imageRef = useRef(null);
+  const textRef = useRef<HTMLDivElement>(null);
+  const imageRef = useRef<HTMLImageElement>(null);
 
   useEffect(() => {
     startTypingEffect({

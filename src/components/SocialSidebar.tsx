@@ -12,7 +12,8 @@ const socialLinks = [
 ];
 
 function SocialSidebar() {
-  const sidebarRef = useRef(null);
+  const sidebarRef = useRef<HTMLDivElement>(null);
+
 
   useEffect(() => {
     const handleScroll = () => {

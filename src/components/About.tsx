@@ -4,8 +4,8 @@ import Image from "next/image";
 import MyPhoto from "../../public/rohith-about.png";
 
 function About() {
-  const imageRef = useRef(null);
-  const textRef = useRef(null);
+  const imageRef = useRef<HTMLImageElement>(null);
+  const textRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     const handleScroll = () => {
