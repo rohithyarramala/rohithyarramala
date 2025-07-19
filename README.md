@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="rohithyarramala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-A328E0?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://rohithyarramala.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-A328E0?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://linkedin.com/in/rohithyarramala"><img src="https://img.shields.io/badge/LinkedIn-Rohith%20Yarramala-A328E0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:rohithyarramala@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-A328E0?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/rohithyarramala"><img src="https://img.shields.io/badge/Instagram-@rohithyarramala-A328E0?style=for-the-badge&logo=instagram&logoColor=white"></a>
